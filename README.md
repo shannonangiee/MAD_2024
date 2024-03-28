@@ -45,10 +45,11 @@ Sebagai contoh :
 ## Langkah-langkah Pengumpulan Latihan
 
 - Fork project github ini. Ada terdapat 3 branch yaitu: master, parallel-a, parallel-b, parallel-c
-- Dari local laptop/PC anda buat branch baru dengan nama sesuai dengan nama diikuti oleh nim. contoh: johndoe_105022110001
-- Buat file baru sama seperti nama anda dengan format .md. contoh: johndoe_105022110001.md
-- Edit file tersebut dengan mengisi status instalasi pada tabel yang sudah disediakan.
-- git add dan commit dengan commit message "adding johndoe_105022110001.md"
+- Cloning repository hasil forking ke local laptop/PC.
+- Dari local laptop/PC anda buat branch baru dengan nama sesuai dengan nama diikuti oleh nim. contoh: johndoe_105022110001. Dan masuk ke dalam branch tersebut
+- Duplicate file README.md dan rename file tersebut sama seperti nama branch. contoh: johndoe_105022110001.md 
+- Edit baru tersebut dengan mengisi status instalasi pada tabel yang sudah disediakan.
+- git add dan commit dengan commit message "adding johndoe_105022110001.md" dan git push ke branch yang baru dibuat
 - lakukan pull request ke dalam branch sesuai dengan parallel kelas anda. (Bukan Branch Master)
 
   [react native]: https://reactnative.dev/docs/environment-setup
